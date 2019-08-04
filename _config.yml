@@ -16,8 +16,8 @@ encoding: "utf-8"
 favicon: favicon.ico 
 
 repository: ityouknow/ityouknow.github.io
-github_url: https://github.com/sunyunlong1
-url: http://www.sunyunlong1.com
+github_url: https://github.com/sunyunlong
+url: http://www.sunyunlong.com
 enforce_ssl: ityouknow.com
 
 ## Gem
